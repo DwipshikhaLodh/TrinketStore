@@ -1,0 +1,1 @@
+INTL.numberformator() to display price according to country & language.
